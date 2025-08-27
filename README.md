@@ -1,6 +1,6 @@
 # Data_Scraping_and_Management
 
-** Insider Trading and Stock Market Analysis **
+*Insider Trading and Stock Market Analysis*
 
 This project aims to explore the relationships between the stock market and the transactions of insiders (which include every director, officer, and owner of more than 10 percent of a class of a particular company’s equity).
 
